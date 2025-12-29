@@ -60,7 +60,7 @@ print(results)
 1. Clone the repository:
 
 ```bash
-git clone <your-repo>
+git clone https://pro-grammer-SD/raypy.git
 cd raypy
 ```
 
